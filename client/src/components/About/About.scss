@@ -1,0 +1,20 @@
+.about-content {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: justify;
+    line-height: 30px;
+  
+    p {
+      font-size: 1.2rem;
+      line-height: 1.6;
+      color: #555;
+    }
+    h1{
+        text-align: center;
+        color: red
+    }
+    span{
+        color:blue;
+    }
+  }
